@@ -26,7 +26,7 @@
 ---- 2 				
 
 
-(b) a 1-inch ruler with major tick length 5. 
+(b) A 1-inch ruler with major tick length 5. 
 
 ----- 0 			
 - 					
@@ -47,21 +47,21 @@
 ----- 1
 
 
-(c) a 3-inch ruler with major tick length 3.
+(c) A 3-inch ruler with major tick length 3.
 
----0
+--- 0
 -
 --
 -
----1
+--- 1
 -
 --
 -
----2
+--- 2
 -
 --
 -
----3
+--- 3
  
  */
 import java.util.Scanner;
