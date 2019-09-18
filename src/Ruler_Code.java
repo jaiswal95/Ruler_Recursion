@@ -5,27 +5,63 @@
  Between the marks for whole inches, the ruler contains a series of minor ticks, placed at intervals of 1/2 inch, 1/4 inch, and so on.
  As the size of the interval decreases by half, the tick length decreases by one. 
 
----- 0 				----- 0 			--- 0
-- 					- 					-
--- 					-- 					--
-- 					- 					-
---- 				--- 				--- 1
-- 					-	 				-	
--- 					-- 					--
-- 					- 					-
----- 1 				---- 				--- 2
-- 					- 					-
--- 					-- 					--
-- 					- 					-
---- 				--- 				--- 3
-- 					-
--- 					--
-- 					-
----- 2 				----- 1
+(a) A 2-inch ruler with major tick length 4.
 
-(a) a 2-inch ruler with major tick length 4.
+---- 0 				
+- 					
+-- 				
+- 					
+--- 				
+- 					
+-- 					
+- 					
+---- 1 				
+- 					
+-- 					
+- 					
+--- 				
+- 					
+-- 					
+- 					
+---- 2 				
+
+
 (b) a 1-inch ruler with major tick length 5. 
+
+----- 0 			
+- 					
+-- 					
+- 					
+--- 				
+-	 				
+-- 					
+- 				
+---- 				
+- 					
+-- 					
+- 					
+--- 				
+-
+--
+-
+----- 1
+
+
 (c) a 3-inch ruler with major tick length 3.
+
+---0
+-
+--
+-
+---1
+-
+--
+-
+---2
+-
+--
+-
+---3
  
  */
 import java.util.Scanner;
